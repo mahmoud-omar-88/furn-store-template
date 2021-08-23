@@ -1,0 +1,1 @@
+# furn-store-template
